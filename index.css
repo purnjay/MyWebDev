@@ -1,3 +1,11 @@
 body{
 
 }
+
+.input-container{
+    outline: none;
+    border: none;
+    color: green;
+    font-size: 26px;
+    font-family: monospace;
+}
