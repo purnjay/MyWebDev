@@ -10,3 +10,11 @@ background-color: black;
     font-size: 26px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
+#placeholder{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    size: 26px;
+    color: green;
+}
