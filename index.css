@@ -1,11 +1,12 @@
 body{
-
+background-color: black;
 }
 
 .input-container{
     outline: none;
     border: none;
     color: green;
+    background-color: black;
     font-size: 26px;
-    font-family: monospace;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
