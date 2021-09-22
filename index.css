@@ -79,5 +79,26 @@ background-color: black;
     color: grey;
 }
 
+#yellow-btn{
+    background-color: yellow;
+    color: yellow;
+}
+
+#blue-btn{
+    background-color: blue;
+    color: blue;
+}
+
+#red-btn{
+    background-color: red;
+    color: red;
+}
+
+#black-btn{
+    background-color: black;
+    color:black;
+}
+
+
 /*SETTINGS DIV*/
 
