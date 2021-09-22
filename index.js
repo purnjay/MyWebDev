@@ -27,6 +27,10 @@ function Execute(){
         document.getElementById("main-srch-bar").style.display = "none";
     }
 
+    if(document.getElementById("main-srch-bar").value == "hampter"){
+        window.location.href = "https://www.youtube.com/watch?v=1fiYeUg3L8M";
+    }
+
 }
 
 function colorSelected(colorname){
