@@ -16,13 +16,13 @@
 body{
 background-color: black;
 }
-
+/* MAIN BODY DIV */
 .input-container{
     outline: none;
     border: none;
     color: green;
     background-color: black;
-    font-size: 30px;
+    font-size: 40px;
     
     font-family: 'Terminal';
 }
@@ -31,6 +31,7 @@ background-color: black;
     position: absolute;
     top: 45%;
     left: 43%;
+    overflow: visible;
 }
 
 #placeholder{
@@ -44,3 +45,39 @@ background-color: black;
     font-size: 46px;
     animation: fadeOut 2s;
 }
+/* MAIN BODY DIV */
+
+
+/*SETTINGS DIV*/
+
+#settings{
+    background-color: black;
+    position: absolute;
+    left: 0%;
+    top: 0%;
+    width: 10%;
+    height: 100%;
+    display: none;
+}
+
+.color-btn{
+    padding: 32px 30px;
+    outline: none;
+    border: none;
+    position: relative;
+    left: 20%;
+    top: 15%;
+}
+
+#green-btn{
+    background-color: green;
+    color: green;
+}
+
+#grey-btn{
+    background-color: grey;
+    color: grey;
+}
+
+/*SETTINGS DIV*/
+
